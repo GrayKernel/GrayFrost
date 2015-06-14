@@ -33,3 +33,7 @@
 *[tT]emp/
 *[bB]in/
 *obj/
+
+#Misc
+*.suo
+*.sdf

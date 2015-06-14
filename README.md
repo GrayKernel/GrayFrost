@@ -2,7 +2,7 @@
 
 GrayFrost is a delivery system for C# payloads. GrayFrost is outputted as a DLL that can be injected into a target application. 
 
-GrayFrost was built by @TTimzen(https://twitter.com/TTimzen) and is currently under active support. If you have any issues or pull requests, do not hesitate to submit them! 
+GrayFrost was built by [Topher Timzen](https://tophertimzen.com) and is currently under active support. If you have any issues or pull requests, do not hesitate to submit them! 
 
 C++ .NET CLR Bootstrapper
 	
@@ -16,9 +16,11 @@ C++ .NET CLR Bootstrapper
 - GrayFrostCSharp	
 	- C# Payload
 
+
+
 ##Build:
 
-To build GrayFrost, autoGray is recommended. This tool will auto-bundle the two byte arrays (the payload and the GrayFrost C# round) into the C++ DLL. 
+To build GrayFrost, [autoFrost](https://bitbucket.org/tophertimzen/autofrost) is recommended. This tool will auto-bundle the two byte arrays (the payload and the GrayFrost C# round) into the C++ DLL. 
 
 Manual Build Process: 
 
