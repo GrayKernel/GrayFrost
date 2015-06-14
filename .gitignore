@@ -29,7 +29,7 @@
 *.app
 
 #Folders
-*/Output
-*/[tT]emp
-*/[bB]in
-*/obj
+*Output/
+*[tT]emp/
+*[bB]in/
+*obj/
