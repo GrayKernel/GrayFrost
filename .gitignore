@@ -37,3 +37,6 @@
 #Misc
 *.suo
 *.sdf
+
+GrayFrost/slate.h
+GrayFrostCSharp/payload.cs
