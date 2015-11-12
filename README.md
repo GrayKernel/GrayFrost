@@ -12,7 +12,7 @@ Once the bootstrapping process finishes the GrayFrostCpp has landed in the prope
 
 ##Build Process:
 
-To build GrayFrost, [autoFrost](https://bitbucket.org/tophertimzen/autofrost) is recommended. This tool will auto-bundle the two byte arrays (the raw C# payload and the GrayFrostCSharp round) into the C++ DLL. There is both a GUI tool and a python script for automation. 
+To build GrayFrost, [autoFrost](https://github.com/GrayKernel/AutoFrost) is recommended. This tool will auto-bundle the two byte arrays (the raw C# payload and the GrayFrostCSharp round) into the C++ DLL. There is both a GUI tool and a python script for automation. 
 
 ##Manual Build Process: 
 
